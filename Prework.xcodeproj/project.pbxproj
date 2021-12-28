@@ -16,6 +16,7 @@
 		6BB9E55C277B9EC000BDA4A4 /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB9E55B277B9EC000BDA4A4 /* PreworkTests.swift */; };
 		6BB9E566277B9EC000BDA4A4 /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB9E565277B9EC000BDA4A4 /* PreworkUITests.swift */; };
 		6BB9E568277B9EC000BDA4A4 /* PreworkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB9E567277B9EC000BDA4A4 /* PreworkUITestsLaunchTests.swift */; };
+		6BB9E575277BB5BA00BDA4A4 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB9E574277BB5BA00BDA4A4 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6BB9E561277B9EC000BDA4A4 /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BB9E565277B9EC000BDA4A4 /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		6BB9E567277B9EC000BDA4A4 /* PreworkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6BB9E574277BB5BA00BDA4A4 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				6BB9E546277B9EBD00BDA4A4 /* SceneDelegate.swift */,
 				6BB9E548277B9EBD00BDA4A4 /* ViewController.swift */,
 				6BB9E54A277B9EBD00BDA4A4 /* Main.storyboard */,
+				6BB9E574277BB5BA00BDA4A4 /* SettingsViewController.swift */,
 				6BB9E54D277B9EC000BDA4A4 /* Assets.xcassets */,
 				6BB9E54F277B9EC000BDA4A4 /* LaunchScreen.storyboard */,
 				6BB9E552277B9EC000BDA4A4 /* Info.plist */,
@@ -261,6 +264,7 @@
 				6BB9E549277B9EBD00BDA4A4 /* ViewController.swift in Sources */,
 				6BB9E545277B9EBD00BDA4A4 /* AppDelegate.swift in Sources */,
 				6BB9E547277B9EBD00BDA4A4 /* SceneDelegate.swift in Sources */,
+				6BB9E575277BB5BA00BDA4A4 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
